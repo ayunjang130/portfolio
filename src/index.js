@@ -10,6 +10,7 @@ const imageUrls = [
   saitama3
   // Add more image filenames here if needed
 ];
+//
 
 let currentImageIndex = 0;
 const heroImg = document.getElementById('hero-img');
